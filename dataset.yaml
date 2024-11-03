@@ -1,0 +1,8 @@
+train: 'C:\Users\Amal Anjula\OneDrive - MMU\Subject\MSc project2\trainImages'  # Path to training images folder
+val: 'C:\Users\Amal Anjula\OneDrive - MMU\Subject\MSc project2\trainImages_validation'  # Path to validation images folder
+
+# Number of classes in your dataset
+nc: 3  # Adjust this to the number of exercises
+
+# List your class names (exercise types)
+names: ['lat', 'lat front', 'sclkot']
