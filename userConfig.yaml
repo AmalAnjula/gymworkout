@@ -1,0 +1,53 @@
+personal_data:
+  calories_per_kg: 7700
+  predcit_days: 20
+  weightKG: 70
+videos:
+- calorie_burn_per_minute: 10
+  name: Web camera 0
+  path: 0
+- calorie_burn_per_minute: 10
+  name: Web camera 1
+  path: 1
+- calorie_burn_per_minute: 10
+  name: Dumbbell Lateral 1
+  path: C:\Users\Amal Anjula\OneDrive - MMU\Subject\MSc project2\trainVedio\lat\VID_20240915_120908.mp4
+- calorie_burn_per_minute: 12
+  name: Dumbbell Curl 2
+  path: C:\Users\Amal Anjula\OneDrive - MMU\Subject\MSc project2\trainVedio\lat front\VID_20240915_121358.mp4
+- calorie_burn_per_minute: 15
+  name: Squat 1
+  path: C:\Users\Amal Anjula\OneDrive - MMU\Subject\MSc project2\trainVedio\sclkot\VID_20240915_121737.mp4
+- calorie_burn_per_minute: 10
+  name: Dumbbell Lateral 2
+  path: C:\Users\Amal Anjula\OneDrive - MMU\Subject\MSc project2\trainVedio\lat\VID_20240915_121230.mp4
+- calorie_burn_per_minute: 12
+  name: Dumbbell Curl 2
+  path: C:\Users\Amal Anjula\OneDrive - MMU\Subject\MSc project2\trainVedio\lat front\VID_20240915_121557.mp4
+- calorie_burn_per_minute: 15
+  name: Squat 2
+  path: C:\Users\Amal Anjula\OneDrive - MMU\Subject\MSc project2\trainVedio\sclkot\VID_20240915_121920.mp4
+- calorie_burn_per_minute: 10
+  name: Dumbbell Lateral 1 n
+  path: C:\Users\Amal Anjula\Documents\Wondershare Filmora 9\Output\project\latred.mp4
+- calorie_burn_per_minute: 12
+  name: Dumbbell Curl 2 n
+  path: C:\Users\Amal Anjula\Documents\Wondershare Filmora 9\Output\project\latfrontred.mp4
+- calorie_burn_per_minute: 15
+  name: Squat 1 n
+  path: C:\Users\Amal Anjula\Documents\Wondershare Filmora 9\Output\project\skotred.mp4
+- calorie_burn_per_minute: 10
+  name: Dumbbell Lateral 2 n
+  path: C:\Users\Amal Anjula\Documents\Wondershare Filmora 9\Output\project\latblack.mp4
+- calorie_burn_per_minute: 12
+  name: Dumbbell Curl 2 n
+  path: C:\Users\Amal Anjula\Documents\Wondershare Filmora 9\Output\project\latfrontblack.mp4
+- calorie_burn_per_minute: 13
+  name: all in one n
+  path: C:\Users\Amal Anjula\Documents\Wondershare Filmora 9\Output\project\all.mp4
+workOutData:
+  cal_burn_rate: 6.1
+  run: 0
+  vedio_path: C:\Users\Amal Anjula\Documents\Wondershare Filmora 9\Output\project\all.mp4
+  workOutDuration: 0.4273165729310777
+  workOutName: all in one n
